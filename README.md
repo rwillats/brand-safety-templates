@@ -1,6 +1,6 @@
 # Brand Safety Templated Prompt Test Set
 
-A reusable framework for generating company-specific brand safety evaluation prompts. Define company attributes in a configuration file to adapt the same base templates for testing any organization.
+A reusable framework for generating n=200 company-specific brand safety evaluation prompts. Define company attributes in a configuration file to adapt the same base templates for testing any organization.
 
 Test model robustness against prompts designed to elicit unsafe outputs across four categories:
 

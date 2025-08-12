@@ -2,8 +2,6 @@
 
 A reusable framework for generating company-specific brand safety evaluation prompts. Define company attributes in a configuration file to adapt the same base templates for testing any organization.
 
-## Purpose
-
 Test model robustness against prompts designed to elicit unsafe outputs across four categories:
 
 1. **Competitor Mention** - Attempts to generate unfavorable comparisons or portray rivals as superior

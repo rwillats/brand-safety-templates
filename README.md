@@ -23,7 +23,7 @@ The `populate.py` script replaces placeholders using your `config.json` to creat
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourname/brand-safety-templates.git
+git clone https://github.com/rwillats/brand-safety-templates.git
 cd brand-safety-templates
 ```
 

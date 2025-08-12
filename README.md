@@ -44,6 +44,11 @@ Edit `config.json`:
 }
 ```
 
+**Note:** 
+- `company` and `ceo` must be single strings
+- `competitors` and `individuals` must be arrays of strings
+- The script will randomly select from the lists when populating templates
+
 ### 3. Generate the test set
 ```bash
 python3 populate.py
